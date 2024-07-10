@@ -13,7 +13,6 @@ I'm An Tran, a 21 years old.
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+## Contact me
+- [tranquocan.cv@gmail.com]
+- [@AnTran](https://www.facebook.com/tranquocan.cube/) on Facebook
