@@ -14,5 +14,5 @@ I'm An Tran, a 21 years old.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact me
-- [tranquocan.cv@gmail.com]
+- tranquocan.cv@gmail.com
 - [@AnTran](https://www.facebook.com/tranquocan.cube/) on Facebook
