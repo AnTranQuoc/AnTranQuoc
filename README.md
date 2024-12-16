@@ -13,6 +13,7 @@ I'm An Tran, a 21 years old.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, C#, etc...
+- 🤖 Python and R, yolo, openCV, etc... 
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
