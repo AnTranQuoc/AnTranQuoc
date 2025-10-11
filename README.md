@@ -12,8 +12,8 @@ I'm An Tran, a 22 years old.
 - 👨‍💻 Studying at [UIT](https://www.uit.edu.vn/)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, C#, etc.
-- 🤖 Python, yolo, openCV, scikit-learn, etc.
+- 👨‍💻 TypeScript, JavaScript
+- 🤖 Python, C#
 - ⚙️ React, Vue
 - 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
