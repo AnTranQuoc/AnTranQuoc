@@ -20,5 +20,4 @@ I'm An Tran, a 22 years old.
 
 ## Contact me
 - tranquocan.cv@gmail.com
-- [@AnTran](https://www.facebook.com/tranquocan.cube/) on Facebook
 - [My Portfolio](https://portfolio-tqa.vercel.app/)
