@@ -72,14 +72,13 @@ const an = {
 
 <div align="center">
 
-[![AI-102](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate%20(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/)
-[![AZ-204](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate%20(AZ--204)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-developer/)
+[![AI-102](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate%20(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/TranAn-4677/326A4A10AAB8EC62?sharingId=327CBB960E9FAB6C)
+[![AZ-204](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate%20(AZ--204)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/TranAn-4677/62C965602FF861C?sharingId=327CBB960E9FAB6C)
 
 </div>
 
 - 🎖️ **Microsoft Certified:** Azure AI Engineer Associate — `AI-102`
 - 🎖️ **Microsoft Certified:** Azure Developer Associate — `AZ-204`
-- 🗣️ **English:** TOEIC 635 (L&R) · TOEIC 260 (S&W)
 
 ---
 
