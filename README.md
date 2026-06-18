@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/AnTranQuoc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Microsoft+Agent+Builder;Always+learning,+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Developer;Azure+AI+%26+Agent+Framework+Builder;Data+Science+%26+Machine+Learning;Always+learning,+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,17 +29,19 @@
 ```typescript
 const an = {
   name: "An Tran",
-  role: "Full-Stack Developer",
+  role: "AI Engineer & Developer",
   education: "University of Information Technology (UIT)",
   company: "Idealogic",
+  focus: ["Azure AI", "Agent Framework", "Machine Learning"],
+  certs: ["AI-102", "AZ-204"],
   motto: "A young dev trying his best to build a great life 🚀",
-  currentlyLearning: ["AI Agents", "System Design"],
 };
 ```
 
 - 🎓 Studied at [UIT](https://www.uit.edu.vn/)
 - 💼 Working at [Idealogic](https://www.idealogic.com.vn/)
-- 🌱 Currently leveling up in **AI & Microsoft Agent** development
+- 🌱 Building **AI agents** with Azure AI Foundry & the Microsoft Agent Framework
+- 📜 Microsoft Certified: **Azure AI Engineer (AI-102)** & **Azure Developer (AZ-204)**
 - ⚡ Fun fact: I think cats make the best pair-programmers
 
 ---
@@ -48,20 +50,36 @@ const an = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Agent%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+[![AI-102](https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Engineer%20Associate%20(AI--102)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-ai-engineer/)
+[![AZ-204](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate%20(AZ--204)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-developer/)
+
+</div>
+
+- 🎖️ **Microsoft Certified:** Azure AI Engineer Associate — `AI-102`
+- 🎖️ **Microsoft Certified:** Azure Developer Associate — `AZ-204`
+- 🗣️ **English:** TOEIC 635 (L&R) · TOEIC 260 (S&W)
 
 ---
 
