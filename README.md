@@ -9,14 +9,14 @@
 
 I'm An Tran, a young teenager trying his best to build a great life.
 
-- 👨‍💻 Studying at [UIT](https://www.uit.edu.vn/)
+- 👨‍💻 Studied at [UIT](https://www.uit.edu.vn/)
+- 👨‍💻 Working at [Idealogic](https://www.idealogic.com.vn/)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript
-- 🤖 Python, C#
-- ⚙️ React, Vue
-- 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript
+- 🤖 Python, C#, Microsoft agent
+- ⚙️ React
+- 💽 SQL, PostgreSQL
 
 ## Contact me
 - tranquocan.cv@gmail.com
