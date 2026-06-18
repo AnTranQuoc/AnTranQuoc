@@ -93,10 +93,6 @@ const an = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnTranQuoc&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnTranQuoc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
 </div>
 
 ---
