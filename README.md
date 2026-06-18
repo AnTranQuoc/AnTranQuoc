@@ -87,7 +87,7 @@ const an = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnTranQuoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnTranQuoc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnTranQuoc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2" />
 
 <br/>
